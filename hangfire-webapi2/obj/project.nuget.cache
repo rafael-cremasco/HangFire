@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "eF4MFqgOydKb8gZ9gefS2nsPtKhaIKtspCRMkW3c0UlSwRxQTi9HY0oaLP99WfX3R+i8QEhmZenAQ7W4IwUAKw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\rafae\\source\\repos\\Git\\hangfire-webapi2\\hangfire-webapi2\\hangfire-webapi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\hangfire\\1.7.9\\hangfire.1.7.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\hangfire.aspnetcore\\1.7.9\\hangfire.aspnetcore.1.7.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\hangfire.core\\1.7.9\\hangfire.core.1.7.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\hangfire.sqlserver\\1.7.9\\hangfire.sqlserver.1.7.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.data.sqlclient\\4.4.0\\system.data.sqlclient.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
